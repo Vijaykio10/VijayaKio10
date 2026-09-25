@@ -1,6 +1,6 @@
 # Hi, I'm Vijaya Ragunath 👋
 
-### AI/ML Engineer | Generative AI | LLMs | RAG | Python
+### AI/ML Engineer | GenAI | LLMs | RAG | Python
 
 I build practical AI-powered applications that connect machine learning, Generative AI, and software engineering.
 
@@ -8,7 +8,7 @@ I build practical AI-powered applications that connect machine learning, Generat
 - 💼 AI/ML Intern at VDart
 - 🤖 Focused on Machine Learning, Deep Learning, Generative AI, LLM applications and RAG
 - 🛠️ Interested in building end-to-end AI products, not just models
-- 🚀 Currently strengthening my skills in AI engineering, system design and production-ready applications
+- 🚀 Currently strengthening my skills in AI engineering, system design, MLOps and production-oriented applications
 
 ---
 
@@ -30,7 +30,7 @@ Face-recognition based attendance prototype built for workforce attendance workf
 ### 🗣️ AI English Coach
 A voice-based AI English learning assistant designed for interactive speaking practice.
 
-**Built with:** Whisper, Gemini API, Streamlit and Python
+**Built with:** Whisper, Ollama, Mistral 7B, Streamlit and Python
 
 **Highlights:**
 - Voice recording and transcription
@@ -93,7 +93,7 @@ My personal portfolio showcasing my projects, skills and experience.
 
 ## 📌 Currently Working On
 
-- Building stronger production-ready AI/ML applications
+- Building stronger production-oriented AI/ML applications
 - Improving my understanding of LLM systems and AI agents
 - Strengthening DSA, SQL and ML fundamentals
 - Exploring MLOps and cloud deployment for AI applications
@@ -110,4 +110,4 @@ I'm open to opportunities, collaborations and conversations around AI/ML and Gen
 
 ---
 
-> **Building practical AI, one project at a time. 🚀**
+> **Building practical AI systems, one project at a time. 🚀**
